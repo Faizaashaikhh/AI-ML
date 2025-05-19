@@ -11,9 +11,8 @@ This repository contains various data science and analytics projects developed u
 ### 2. Twitter
 ### 3. Titanic
 ### 4. credit card analysis
-### 5. image calssification
-### 6. lego
-### 7. text (sentiment analysis)
+### 5. lego
+### 6. text (sentiment analysis)
 
 
 ## 📬 Get in Touch  
