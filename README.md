@@ -14,7 +14,7 @@ This repository contains various data science and analytics projects developed u
 ### 5. image calssification
 ### 6. lego
 ### 7. k means
-### 8. text
+### 8. text (sentiment analysis)
 
 
 ## 📬 Get in Touch  
